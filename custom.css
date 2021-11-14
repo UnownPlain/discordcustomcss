@@ -6,6 +6,10 @@
     display: none;
 }
 
+#private-channels [href="/store"] {
+	display: none
+}
+
 /* CODEBLOCK LANGUAGES */
 .hljs:before {
   display: block;
