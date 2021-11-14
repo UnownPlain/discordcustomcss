@@ -1,5 +1,7 @@
 /* Remove Nitro Tab */
-#private-channels [href="/store"] {display: none}
+a;[href="/store"] {
+    display: none;
+}
 
 /* Remove Gift Button */
 [aria-label="Send a gift"] {
