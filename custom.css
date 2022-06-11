@@ -1,8 +1,9 @@
-@import url("https://discord-theme-addons.github.io/refined-user-connections/src/support/compiled.css")
+@import url("https://discord-extensions.github.io/modern-user-connections/src/source.css");
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 
 /* Remove Nitro Tab */
-div;[href="/store"] {
-    display: none
+[href="/store"] {
+    display: none;
 }
 
 /* Remove Gift Button */
