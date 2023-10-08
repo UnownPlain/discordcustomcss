@@ -11,6 +11,13 @@
 	display: none;
 }
 
+/* Remove Avatar Decoration Pop-up */
+.container-34SFyU,
+.containerWrapper-1kh54c,
+.animation-2Ulm63 {
+	display: none;
+}
+
 /* Codeblock Languages */
 .hljs:before {
 	display: block;
