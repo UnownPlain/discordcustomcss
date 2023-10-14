@@ -18,6 +18,11 @@
 	display: none;
 }
 
+/* Remove Get Super Reactions */
+#message-add-reaction-1 {
+	display: none;
+}
+
 /* Codeblock Languages */
 .hljs:before {
 	display: block;
