@@ -8,7 +8,7 @@ Custom CSS for Discord.
 ## Installation
 1. Copy the text below to your clipboard.
 ```css
-@import url(https://unownplain.github.io/discordcustomcss/custom.css;)
+@import url(https://unownplain.github.io/discordcustomcss/custom.css);
 ```
 3. Find where you put custom CSS in your client mod.
 5. Paste in the text you just copied and click save if needed.
