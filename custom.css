@@ -21,6 +21,11 @@
 	display: none;
 }
 
+/* Remove Nitro Ad on Profile Banners */
+.premiumIconWrapper__83620 {
+	display: none;
+}
+
 /* Codeblock Languages */
 .hljs:before {
 	display: block;
