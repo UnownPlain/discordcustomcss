@@ -1,5 +1,12 @@
 @import url(https://minidiscordthemes.github.io/SettingsIcons/SettingsIcons.theme.css);
 @import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
+@import url(https://rsms.me/inter/inter.css);
+
+* {
+  font-family: InterVariable, 'gg sans', 'Segoe UI', sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+  text-rendering: geometricPrecision;
+}
 
 /* Remove Nitro Tab */
 [href="/store"] {
@@ -22,7 +29,7 @@
 }
 
 /* Remove Nitro Ad on Profile Banners */
-.premiumIconWrapper__7793e {
+.premiumIconWrapper_c3e427 {
 	display: none;
 }
 
